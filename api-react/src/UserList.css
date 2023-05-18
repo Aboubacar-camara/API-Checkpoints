@@ -1,0 +1,26 @@
+.user-list {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .user-list__title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .user-list__item {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .user-list__item-name {
+    font-weight: bold;
+  }
+  
+  .user-list__item-email {
+    color: #888888;
+  }
+  
